@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/*changed .header div to .header nav; changed float to inline-end */
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,7 +31,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/*changed .header div ul to .header nav ul */
+
 .header nav ul {
     list-style-type: none;
 }
